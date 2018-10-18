@@ -1,2 +1,2 @@
 # new_test
-print(00)
+print('test')
